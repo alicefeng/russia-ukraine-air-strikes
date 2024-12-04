@@ -1,28 +1,10 @@
-# Layer Cake Example
+# Russia's increasing air and drone strikes in Ukraine
 
-This is a starter example for using [Layer Cake](https://layercake.graphics). It sets you up with the line and area chart as seen [in the examples](https://layercake.graphics/example/Line). It uses [SvelteKit](https://kit.svelte.dev/docs/) and so the file structure and file naming conventions come from there.
+This is my draft visualization for the RFE/RL Sr Graphics/Data Journalist position. It is a stripplot using [Layer Cake](https://layercake.graphics). 
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+## How to run
 
-```bash
-npx degit mhkeller/layercake-template my-chart
-cd my-chart
-```
-
-_Note that you will need to have [Node.js](https://nodejs.org) installed._
-
-## Get started
-
-Install the dependencies...
-
-```bash
-npm install
-npm run build && npm run preview
-```
-
-Your app will be running at [localhost:4173](http://localhost:4173).
-
-## Developing
+First clone this repo and then install the dependencies...
 
 ```sh
 # if you didn't already install, run the install command
